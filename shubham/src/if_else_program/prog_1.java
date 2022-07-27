@@ -6,7 +6,7 @@ public class prog_1 {
 		
 		int salary = 50000;
 		if(salary==55000) {
-			System.out.println("satisfy");
+			System.out.println("satisfy aahe");
 		}
 		
 		else {
